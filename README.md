@@ -1,2 +1,1 @@
-# leetcode-clone
-Creating a leetcode clone to improve my skills in React, Next , Tailwind CSS
+This is a project created to improve my skills in React, NextJs and Tailwind CSS
